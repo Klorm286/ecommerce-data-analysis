@@ -1,4 +1,4 @@
-# Ecommerce Data Analysis
+# Анализ данных eCommerce
 
 ## Описание проекта
 
