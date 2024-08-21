@@ -21,9 +21,11 @@
 
 ##  Стек
 
-* *Платформа:* Jupyter Notebook
-* *Язык программирования:* Python
-* *Библиотеки:* Pandas
+<p float="left">
+  <img alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="169" />
+  <img alt="Pandas" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" width="124" />
+  <img alt="Jupyter Notebook" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png?20190118024747" width="43" />
+</p>
 
 ## Этапы работы
 
